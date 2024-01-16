@@ -6,5 +6,8 @@
 - It is a C# project
 - The UI will be composed of HTML, CSS and Javascript
 #### Timeline
-- The projected end is 4 months (May 2024)
+- The projected project completion time is 4 months (May 2024)
+#### External Sources 
+- The UI (Front End) was acquired from ThemeWagon, Link to the them below 
+- https://themewagon.com/
 
